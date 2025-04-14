@@ -1,8 +1,8 @@
 === Accessibility Font Resizer ===
 Contributors: satellitewp, maximejobin
-Tags: font size, text size, text resizer, font resizer, accessibility, font resize
+Tags: font size, text size, text resizer, font resizer, accessibility
 Requires at least: 4.9
-Tested up to: 6.5.3
+Tested up to: 6.8
 Stable tag: 1.0.4
 Requires PHP: 7.2
 License: GPLv3
